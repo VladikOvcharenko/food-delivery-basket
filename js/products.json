@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"title": "Бургер",
+		"itemsInBox": 1,
+		"weight": 120,
+		"price": 150,
+		"imgSrc": "burger.png"	
+	}, 
+	{
+		"id": 2,
+		"title": "Чізбургер",
+		"itemsInBox": 1,
+		"weight": 140,
+		"price": 170,
+		"imgSrc": "cheese_burger.png"	
+	}, 
+	{
+		"id": 3,
+		"title": "Курка",
+		"itemsInBox": 12,
+		"weight": 220,
+		"price": 247,
+		"imgSrc": "chicken.png"	
+	}, 
+	{
+		"id": 4,
+		"title": "Coca-Cola",
+		"itemsInBox": 1,
+		"weight": 0.35,
+		"price": 30,
+		"imgSrc": "cola.png"	
+	}
+	
+]
